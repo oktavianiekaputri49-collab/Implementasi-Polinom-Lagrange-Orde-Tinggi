@@ -1,0 +1,47 @@
+📊 Implementasi Polinom Lagrange Orde Tinggi
+Deskripsi
+Project ini membahas implementasi metode Interpolasi Lagrange Orde Tinggi untuk melakukan pendekatan nilai fungsi pada titik tertentu menggunakan beberapa data numerik yang tersedia.
+Metode Lagrange digunakan untuk membentuk polinom interpolasi dari banyak titik data sehingga estimasi nilai fungsi dapat dihitung secara numerik dengan lebih akurat.
+
+Data
+| x  | f(x) |
+|----|------|
+| -2 | 1    |
+| -1 | 4    |
+| 0  | 11   |
+| 1  | 16   |
+| 2  | 13   |
+| 3  | -4   |
+
+Target:  
+f(0.5)
+
+Hasil pendekatan:  
+f(0.5) = 14.125
+
+Metode yang Digunakan
+- Interpolasi Lagrange Orde Tinggi
+- Polinom Lagrange
+- Pendekatan nilai fungsi numerik
+- Microsoft Excel
+
+Hasil
+Metode berhasil digunakan untuk menghitung pendekatan nilai fungsi pada titik yang tidak tersedia dalam data dengan hasil estimasi numerik yang baik.
+
+Tujuan Project
+- Memahami konsep interpolasi numerik
+- Mempelajari metode Interpolasi Lagrange orde tinggi
+- Mengimplementasikan pendekatan fungsi menggunakan Excel
+- Melatih analisis data numerik
+
+Insight
+Semakin banyak titik data yang digunakan, semakin kompleks polinom interpolasi yang terbentuk. Interpolasi Lagrange membantu memperoleh pendekatan nilai fungsi secara sistematis dari data yang tersedia.
+
+Tools
+- Microsoft Excel
+- Metode Numerik
+
+Penutup
+Project ini merupakan latihan implementasi metode numerik untuk memahami proses interpolasi, pembentukan polinom, dan pendekatan nilai fungsi secara sistematis dan aplikatif.
+
+#MetodeNumerik #InterpolasiLagrange #Excel #NumericalMethod
